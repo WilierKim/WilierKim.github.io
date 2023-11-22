@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "코딩 초보 윌리어김 성공담"
+title                    : "윌리어김 성공담"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "윌리어김"
-description              : "코딩 초보 윌리어김의 성장과정을 기록하는 블로그 입니다."
+description              : "윌리어김의 성장과정을 기록하는 블로그 입니다."
 url                      : "https://WilierKim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "윌리어김"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "세명컴퓨터고등학교에 재학 중인 초보 앱 개발자"
+  bio              : "세명컴퓨터고등학교에 재학 중인      앱 개발자"
   location         : "대한민국"
   email            : "kkm838822@gmail.com"
   links:
