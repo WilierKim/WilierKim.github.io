@@ -109,6 +109,26 @@ author:
   bio              : "세명컴퓨터고등학교에 재학 중인 앱 개발자 지망생"
   location         : "대한민국"
   email            : "kkm838822@gmail.com"
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "kkm838822@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+       url: "https://wilierkim.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+       url: "https://github.com/WilierKim" 
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+       url: "https://www.instagram.com/rbalsdlqslek/"
   
 # Site Footer
 footer:
@@ -238,7 +258,7 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
+jekyll-archives:
   enabled:
     - categories
     - tags
