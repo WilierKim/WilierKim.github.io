@@ -109,10 +109,11 @@ author:
   bio              : "세명컴퓨터고등학교에 재학 중인 앱 개발자 지망생"
   location         : "대한민국"
   email            : "kkm838822@gmail.com"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "kkm838822@gmail.com"
+       url: "kkm838822@gmail.com "
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://wilierkim.github.io/"
